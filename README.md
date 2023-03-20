@@ -103,7 +103,7 @@
 
 <br>
 
-## <b> Connect Me..!</b> <img src="./assets/mdImages/handshake.gif" width ="80">
+## <b> Contact Me..!</b> <img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
